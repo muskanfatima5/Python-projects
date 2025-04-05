@@ -1,0 +1,10 @@
+[
+    {
+        "task": "practice python",
+        "done": true
+    },
+    {
+        "task": "complete assignments",
+        "done": false
+    }
+]
